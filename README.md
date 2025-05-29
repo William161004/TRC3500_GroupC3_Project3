@@ -1,5 +1,4 @@
 # TRC3500_GroupC3_Project3
-Project 3 : Estimating Breath Rate 
 
 Breath Rate Estimation System
 A dual-sensor system leveraging pressure and conductive rubber strain sensors for accurate breath rate estimation using STM32 microcontroller and Python data processing.
